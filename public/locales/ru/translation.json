@@ -1,0 +1,22 @@
+{
+    "layout":{
+        "home":"Домой",
+        "search":"Поисковый запрос",
+        "explore":"Интересное",
+        "messages":"Сообщения",
+        "notifications":"Уведомления",
+        "create":"Создать",
+        "profile":"Профиль",
+        "more":"Ещё",
+        "switchappearance":"Переключить режим",
+        "darkmode":"Ночной режим",
+        "logout":"Выйти",
+        "recent":"Недавнее",
+        "clearall":"Очистить все",
+        "norecentsearches":"Нет недавних запросов.",
+        "createnewpost":"Создание публикации",
+        "dragphotosandvideoshere":"Перетащите сюда фото и видео",
+        "selectfromcomputer":"Выбрать на компьютере",
+        "post":"Публикация"
+    }
+}
